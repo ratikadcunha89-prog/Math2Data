@@ -1,0 +1,27 @@
+print("🌱 Welcome to Math2Data!")
+print("=" * 40)
+
+print("\n👩‍🏫 A Little About Me")
+print("I am a Mathematician. 🔢")
+print("I am a Gardener. 🌿")
+print("I am learning Data Analytics. 📊")
+print("I am exploring Python, SQL, and Data.")
+print("I am on my journey to becoming a Data Scientist. 🚀")
+
+print("\n🐍 A Little About Python")
+print("Python was created by Guido van Rossum.")
+print("It was first released in 1991.")
+print("Python is a high-level, general-purpose programming language.")
+print("It is known for being simple, readable, and powerful.")
+
+print("\n💡 Why is it called Python?")
+print("The name was inspired by Monty Python,")
+print("a British comedy group enjoyed by Guido van Rossum.")
+print("So, Python 🐍 is not named after the snake!")
+
+print("\n🌱 My Python Journey Begins")
+print("From Mathematics → Data → Python → Data Science")
+print("Every line of code is a new seed of learning. 🌱")
+
+print("\n🌎 Welcome to Math2Data!")
+print("Grow. Learn. Analyse. Create.")
