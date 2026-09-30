@@ -1,0 +1,158 @@
+print("🌱 Welcome to My Python Garden!")
+print("=" * 55)
+
+print("\n🌱 ONE PLANT = ONE PIECE OF DATA")
+
+plant = "Coconut"
+
+print("My plant:", plant)
+print("This is one piece of information.")
+print("Python stores it as a single value.")
+
+print("\n🌿 MANY PLANTS = A COLLECTION OF DATA")
+
+garden = [
+    "Starfruit",
+    "Cacao",
+    "Canistel",
+    "Mangosteen",
+    "Avocado",
+    "Grapefruit",
+    "Papaya",
+    "Coconut"
+]
+
+print("My garden fruits:", garden)
+
+print("\n🌱 Think of it this way...")
+
+print("One plant   → One piece of data")
+print("Whole garden → Collection of data")
+
+
+# ------------------------------------------------
+# 🌿 COLLECTION DATA TYPES
+# ------------------------------------------------
+
+print("\n🌿 PYTHON COLLECTION DATA TYPES")
+print("=" * 55)
+
+
+# 🌱 1. LIST
+# A List is ordered and MUTABLE.
+
+fruits_list = [
+    "Starfruit",
+    "Cacao",
+    "Canistel",
+    "Mangosteen",
+    "Avocado",
+    "Grapefruit",
+    "Papaya",
+    "Coconut"
+]
+
+print("\n🌱 1. LIST")
+print("My fruits:", fruits_list)
+
+print("\nA List is MUTABLE.")
+print("Mutable means it can be changed.")
+
+fruits_list.append("Banana")
+
+print("After adding Banana:")
+print(fruits_list)
+
+
+# 📚 2. TUPLE
+# A Tuple is ordered and IMMUTABLE.
+
+learning = (
+    "Python",
+    "SQL",
+    "Excel",
+    "Statistics"
+)
+
+print("\n📚 2. TUPLE")
+print("What I am learning:", learning)
+
+print("\nA Tuple is IMMUTABLE.")
+print("Immutable means it cannot be changed after creation.")
+
+
+# 🌿 3. SET
+# A Set stores unique values.
+
+unique_fruits = {
+    "Starfruit",
+    "Cacao",
+    "Canistel",
+    "Mangosteen",
+    "Avocado",
+    "Grapefruit",
+    "Papaya",
+    "Coconut"
+}
+
+print("\n🌿 3. SET")
+print("Unique fruits in my garden:", unique_fruits)
+
+print("\nA Set stores UNIQUE values.")
+print("It does not keep duplicate values.")
+
+
+# 📊 4. DICTIONARY
+# A Dictionary stores data as key-value pairs.
+
+plant_details = {
+    "name": "Coconut",
+    "type": "Tree",
+    "fruit": "Coconut",
+    "use": "Food"
+}
+
+print("\n📊 4. DICTIONARY")
+print("Plant details:", plant_details)
+
+print("\nA Dictionary stores data as:")
+print("KEY → VALUE")
+
+
+# ------------------------------------------------
+# 🌱 MUTABLE VS IMMUTABLE
+# ------------------------------------------------
+
+print("\n🌱 MUTABLE vs IMMUTABLE")
+print("=" * 55)
+
+print("\n🌿 Mutable")
+print("Can be changed after creation.")
+print("Example: List")
+
+print("\n🔒 Immutable")
+print("Cannot be changed after creation.")
+print("Example: Tuple")
+
+
+# ------------------------------------------------
+# 🌍 MY GARDEN ANALOGY
+# ------------------------------------------------
+
+print("\n🌍 MY GARDEN ANALOGY")
+print("=" * 55)
+
+print("\n🌱 One plant → One piece of data")
+print("🌿 Whole garden → Collection of data")
+
+print("\n🌿 Mutable → A garden that can change")
+print("🔒 Immutable → A collection that stays fixed")
+
+print("\n🐍 Python collections help me organise")
+print("many pieces of data together.")
+
+print("\nFrom ONE piece of data")
+print("        ↓")
+print("to a WHOLE collection of data")
+print("        ↓")
+print("My Math2Data garden is growing! 🌱📊🐍")
