@@ -1,0 +1,50 @@
+print("Welcome back to Math2Data!")
+print("=" * 45)
+
+print("\nToday I am learning: PYTHON DATA TYPES")
+
+print("\nJust like a garden has different kinds of plants,")
+print("Python has different kinds of data.")
+
+# 1. String — Text
+
+name = "Ratika"
+passion = "Gardening"
+
+# 2. Integer — Whole numbers
+
+years_teaching = 13
+plants_in_garden = 20
+
+# 3. Float — Decimal numbers
+
+maths_score = 9.5
+growth_rate = 2.75
+
+# 4. Boolean — True or False
+
+learning_python = True
+love_for_gardening = True
+
+print("\n My Data Garden")
+print("Name:", name)
+print("Passion:", passion)
+print("Years of Teaching:", years_teaching)
+print("Plants in my Garden:", plants_in_garden)
+print("Maths Score:", maths_score)
+print("Plant Growth Rate:", growth_rate)
+print("Am I learning Python?", learning_python)
+print("Do I love Gardening?", love_for_gardening)
+
+print("\nLet's ask Python what type of data these are:")
+
+print(type(name))
+print(type(years_teaching))
+print(type(maths_score))
+print(type(learning_python))
+
+print("\nJust like every plant has its own nature,")
+print("every piece of data has its own type.")
+
+print("\nFrom Numbers → Data → Python → Insights")
+print("My Math2Data journey continues!")
