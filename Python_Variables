@@ -1,0 +1,122 @@
+# 🌱 Climate Garden: Growing Solutions with Python
+
+**Python Topic:** Variables
+**Theme:** Gardening • Sustainability • Climate Action
+
+```python
+# 🌱 CLIMATE GARDEN
+# Learning Python Variables through Gardening & Climate Action
+
+print("🌱 WELCOME TO MY CLIMATE GARDEN 🌍")
+print("=" * 50)
+
+# ------------------------------------------------
+# 1. Creating Variables
+# ------------------------------------------------
+
+garden_name = "Grow For Earth"
+
+plants = 25
+trees = 8
+vegetable_beds = 4
+water_saved = 120
+compost_created = 15
+
+favorite_tree = "Coconut"
+favorite_fruit = "Starfruit"
+
+climate_goal = "Restore nature through everyday gardening"
+
+# ------------------------------------------------
+# 2. Displaying Our Garden
+# ------------------------------------------------
+
+print("\n🌿 MY GARDEN")
+print("-" * 50)
+
+print("Garden:", garden_name)
+print("Plants growing:", plants)
+print("Trees growing:", trees)
+print("Vegetable beds:", vegetable_beds)
+print("Favorite tree:", favorite_tree)
+print("Favorite fruit:", favorite_fruit)
+
+# ------------------------------------------------
+# 3. Small Actions Can Create Bigger Results
+# ------------------------------------------------
+
+water_saved_next_month = water_saved + 50
+plants_next_season = plants + 10
+trees_next_year = trees + 2
+compost_created_next_month = compost_created + 5
+
+print("\n🌍 CLIMATE ACTION")
+print("-" * 50)
+
+print("Water saved next month:", water_saved_next_month, "litres")
+print("Plants next season:", plants_next_season)
+print("Trees next year:", trees_next_year)
+print("Compost created next month:", compost_created_next_month, "kg")
+
+# ------------------------------------------------
+# 4. Updating a Variable
+# ------------------------------------------------
+
+climate_goal = "Grow more, waste less, restore nature 🌎"
+
+print("\n🌱 MY CLIMATE GOAL")
+print("-" * 50)
+
+print(climate_goal)
+
+# ------------------------------------------------
+# 5. The Bigger Message
+# ------------------------------------------------
+
+print("\n🌎 EVERY PLANT COUNTS")
+print("-" * 50)
+
+print("One plant can provide shade.")
+print("One tree can support biodiversity.")
+print("Compost can reduce organic waste.")
+print("Saving water can protect a precious resource.")
+print("Small actions can become a movement.")
+
+print("\n🌱 Grow. Restore. Sustain.")
+```
+
+## 💡 What I learned
+
+This project taught me that **Python variables are containers for information**.
+
+For example:
+
+```python
+plants = 25
+```
+
+The variable `plants` stores the value `25`.
+
+We can then use that information:
+
+```python
+plants_next_season = plants + 10
+```
+
+Python calculates:
+
+```text
+25 + 10 = 35
+```
+
+So the variable `plants_next_season` now contains `35`.
+
+### 🌍 Why I chose a climate theme
+
+Gardening is more than growing plants. It can encourage us to think about **water conservation, organic waste, biodiversity, trees and sustainable living**.
+
+Just as a small variable can become part of a larger Python program, **a small gardening action can become part of a larger environmental effort.**
+
+> 🌱 **Grow. Restore. Sustain.**
+>
+> *Because caring for one plant can be the beginning of caring for our planet.*
