@@ -1,0 +1,118 @@
+# 🌱 CLIMATE GARDEN — Python Operators
+
+# Learning Python Operators through Gardening & Climate Action
+
+print("🌱 CLIMATE GARDEN: SMALL ACTIONS, BIG IMPACT 🌍")
+print("=" * 55)
+
+# ------------------------------------------------
+
+# 1. Garden Data
+
+# ------------------------------------------------
+
+plants = 25
+new_plants = 10
+trees = 8
+water_saved = 120
+compost = 15
+
+# ------------------------------------------------
+
+# 2. Arithmetic Operators
+
+# ------------------------------------------------
+
+total_plants = plants + new_plants
+remaining_water = 500 - water_saved
+double_compost = compost * 2
+water_per_plant = water_saved / plants
+
+print("\n🌿 GARDEN GROWTH")
+print("-" * 55)
+
+print("Total plants:", total_plants)
+print("Water remaining from 500 litres:", remaining_water, "litres")
+print("Compost after doubling production:", double_compost, "kg")
+print("Average water saved per plant:", water_per_plant, "litres")
+
+# ------------------------------------------------
+
+# 3. Modulus Operator (%)
+
+# ------------------------------------------------
+
+plants_per_bed = 6
+extra_plants = total_plants % plants_per_bed
+
+print("\n🪴 VEGETABLE BEDS")
+print("-" * 55)
+
+print("Extra plants after filling beds:", extra_plants)
+
+# ------------------------------------------------
+
+# 4. Comparison Operators
+
+# ------------------------------------------------
+
+water_goal = 100
+
+print("\n💧 WATER CONSERVATION")
+print("-" * 55)
+
+print("Have we saved more than our goal?", water_saved > water_goal)
+print("Have we saved exactly our goal?", water_saved == water_goal)
+print("Have we saved less than our goal?", water_saved < water_goal)
+
+# ------------------------------------------------
+
+# 5. Logical Operators
+
+# ------------------------------------------------
+
+enough_water_saved = water_saved >= 100
+enough_compost = compost >= 10
+
+climate_action_ready = enough_water_saved and enough_compost
+
+print("\n🌍 CLIMATE ACTION CHECK")
+print("-" * 55)
+
+print("Enough water saved:", enough_water_saved)
+print("Enough compost created:", enough_compost)
+print("Ready for our next climate action:", climate_action_ready)
+
+# ------------------------------------------------
+
+# 6. Assignment Operator
+
+# ------------------------------------------------
+
+trees += 2
+water_saved += 30
+
+print("\n🌳 GROWING OUR IMPACT")
+print("-" * 55)
+
+print("Trees after planting 2 more:", trees)
+print("Water saved after another conservation effort:", water_saved, "litres")
+
+# ------------------------------------------------
+
+# 7. Final Message
+
+# ------------------------------------------------
+
+print("\n🌎 OUR CLIMATE MESSAGE")
+print("-" * 55)
+
+print("🌱 Grow more.")
+print("💧 Save water.")
+print("♻️ Compost waste.")
+print("🌳 Plant trees.")
+print("🦋 Protect biodiversity.")
+
+print("\n✨ Small actions + consistent effort = meaningful change.")
+print("🌱 Grow. Restore. Sustain.")
+
