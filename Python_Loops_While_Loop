@@ -1,0 +1,28 @@
+# 🌱 CLIMATE GARDEN — While Loop
+
+# Learning While Loops through Gardening & Climate Action
+
+print("🌱 CLIMATE GARDEN 🌍")
+print("=" * 40)
+
+# 1. Initializer
+
+plants_watered = 1
+
+# 2. Condition
+
+while plants_watered <= 5:
+
+```
+print("💧 Watering plant", plants_watered)
+
+# 3. Increment
+plants_watered = plants_watered + 1
+```
+
+print("\n🌿 All plants have been watered!")
+print("💧 Water was used carefully.")
+print("🌍 Smart actions can help protect our planet.")
+
+print("\n🌱 Grow. Restore. Sustain.")
+
