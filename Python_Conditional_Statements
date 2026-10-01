@@ -1,0 +1,125 @@
+# 🌱 CLIMATE GARDEN — Conditional Statements
+
+# Learning Python Conditional Statements through
+
+# Gardening & Climate Action
+
+print("🌱 CLIMATE GARDEN: SMART CARE FOR A HEALTHIER EARTH 🌍")
+print("=" * 60)
+
+# ------------------------------------------------
+
+# 1. Garden Conditions
+
+# ------------------------------------------------
+
+soil_moisture = 30
+rainfall = 5
+compost_available = True
+plant_health = 85
+
+# ------------------------------------------------
+
+# 2. IF Statement
+
+# ------------------------------------------------
+
+print("\n💧 CHECKING THE SOIL")
+print("-" * 60)
+
+if soil_moisture < 40:
+print("The soil is dry. 💧 Time to water the plants!")
+
+# ------------------------------------------------
+
+# 3. IF - ELSE Statement
+
+# ------------------------------------------------
+
+print("\n🌧️ CHECKING THE RAINFALL")
+print("-" * 60)
+
+if rainfall < 10:
+print("Not enough rainfall. Give the garden some water.")
+else:
+print("Good rainfall! 🌧️ Let nature do the watering.")
+
+# ------------------------------------------------
+
+# 4. IF - ELIF - ELSE Statement
+
+# ------------------------------------------------
+
+print("\n🌿 CHECKING PLANT HEALTH")
+print("-" * 60)
+
+if plant_health >= 80:
+print("The plants are healthy and thriving! 🌱")
+elif plant_health >= 50:
+print("The plants need some extra care. 🌿")
+else:
+print("The plants need urgent attention. 🪴")
+
+# ------------------------------------------------
+
+# 5. Using a Boolean Condition
+
+# ------------------------------------------------
+
+print("\n♻️ CHECKING COMPOST")
+print("-" * 60)
+
+if compost_available:
+print("Compost is available. Add it to the soil. ♻️")
+else:
+print("No compost available. Start collecting organic waste.")
+
+# ------------------------------------------------
+
+# 6. Combining Conditions
+
+# ------------------------------------------------
+
+print("\n🌍 CLIMATE ACTION CHECK")
+print("-" * 60)
+
+if soil_moisture < 40 and rainfall < 10:
+print("💧 Water carefully and avoid wasting water.")
+
+if compost_available and plant_health < 80:
+print("♻️ Use compost to improve soil health.")
+
+# ------------------------------------------------
+
+# 7. A Climate-Friendly Decision
+
+# ------------------------------------------------
+
+print("\n🌎 SMART GARDEN DECISION")
+print("-" * 60)
+
+if rainfall >= 10:
+print("🌧️ Skip watering and conserve water.")
+elif soil_moisture < 40:
+print("💧 Water only as much as the plants need.")
+else:
+print("🌱 Soil moisture is sufficient. No watering needed.")
+
+# ------------------------------------------------
+
+# 8. Final Message
+
+# ------------------------------------------------
+
+print("\n🌱 THE IDEA BEHIND SMART GARDENING")
+print("-" * 60)
+
+print("Observe nature.")
+print("Make informed decisions.")
+print("Use resources wisely.")
+print("Reduce unnecessary waste.")
+print("Protect biodiversity.")
+
+print("\n🌍 Smart decisions today can support a healthier planet tomorrow.")
+print("🌱 Grow. Restore. Sustain.")
+
